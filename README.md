@@ -2,7 +2,7 @@
 
 I love to build simple pretty things on the web. My other interests are puzzles, languages, geography and digital art.
 
-![<mabwehz>'s Stats](https://github-readme-stats.vercel.app/api?mabwehz=<mabwehz>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<mabwehz>'s Stats](https://github-readme-stats.vercel.app/api?username=mabwehz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
