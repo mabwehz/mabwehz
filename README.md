@@ -1,38 +1,38 @@
-# Hi, I'm Mabweh! 👋
+# Hi, I'm Mabweh
 
-I love to build simple pretty things on the web. My other interests are puzzles, languages, geography and digital art.
+I love to build simple things on the web.
 
-![<mabwehz>'s Stats](https://github-readme-stats.vercel.app/api?username=mabwehz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🔭 I'm currently working as a Senior Software Engineer in a FinTech company in Malaysia
-- 📝 I write a bit on DevTo [https://dev.to/mabwehz), I may move this to my personal website.
-- 🌐 You can see more about me here https://mabwehz.github.io/
+- I currently work as a Senior Software Engineer in a FinTech company in Malaysia
+- I write a bit on DevTo [https://dev.to/mabwehz)
+- My interests are in puzzles, geography and digital art.
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,java,spring,nodejs,js,html,css,postgresql,mysql,mongodb)](https://skillicons.dev)
 
+
 ## 🌱 Currently Exploring
 
-- 🚀 Expanding my experience in Full Stack Web Development
-- Exploring how to build more fun things with Angular and AlpineJS
-- Creating fun designs on Codepen
+- Leading a team of Software Engineers
+- Mentoring two teenagers in web development
+- Using A.I to improve my efficiency
 - Trying out HonoJS and the Cloudflare ecosystem
-- Adapting to Tailwind over plain CSS
+- Creating colourful designs on Codepen
 
 
  ## 🏆 Achievements
 
-- 🌟 Prepared this profile page
+- Migrated to a foreign country
+- Gained 10 years of proven experience in web development
+- Mentored junior Developers from diverse backgrounds
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/mabwehz) and [Linkedin](https://www.linkedin.com/in/mabweh/)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/mabweh/)
 
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
+## 
+Thanks for stopping by!
